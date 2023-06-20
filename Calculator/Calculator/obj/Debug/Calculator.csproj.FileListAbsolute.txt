@@ -1,0 +1,46 @@
+C:\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\ИС-22\Куиз Асланова\йй\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\ИС-22\Куиз Асланова\йй\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\ИС-22\Куиз Асланова\йй\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\ИС-22\Куиз Асланова\йй\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\ИС-22\Куиз Асланова\йй\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\ИС-22\Куиз Асланова\йй\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\ИС-22\Куиз Асланова\йй\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\ИС-22\Куиз Асланова\йй\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\ИС-22\Куиз Асланова\йй\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\ИС-22\Куиз Асланова\йй\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\ИС-22\Куиз Асланова\йй\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\zzaku\source\repos\Calcl\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\zzaku\source\repos\Calcl\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\zzaku\source\repos\Calcl\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\zzaku\source\repos\Calcl\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\zzaku\source\repos\Calcl\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\zzaku\source\repos\Calcl\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\zzaku\source\repos\Calcl\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\zzaku\source\repos\Calcl\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\zzaku\source\repos\Calcl\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\zzaku\source\repos\Calcl\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\zzaku\source\repos\Calcl\Calculator\Calculator\obj\Debug\Calculator.progcalc.resources
+C:\Users\zzaku\source\repos\Calcl\Calculator\Calculator\obj\Debug\Calculator.sincecalc.resources
+C:\Calcl\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Calcl\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Calcl\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Calcl\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Calcl\Calculator\Calculator\obj\Debug\Calculator.sincecalc.resources
+C:\Calcl\Calculator\Calculator\obj\Debug\Calculator.progcalc.resources
+C:\Calcl\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Calcl\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Calcl\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Calcl\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Calcl\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Calcl\Calculator\Calculator\obj\Debug\Calculator.pdb
